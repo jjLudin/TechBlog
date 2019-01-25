@@ -1,5 +1,5 @@
 # TechBlog
-Visit https://johnyacuta.azurewebsites.net/ for more!
+Visit https://johnyacuta.azurewebsites.net/
 
 Built with: C#/.NET, ASP.NET MVC, Entity Framework
 Hosted on: Azure
